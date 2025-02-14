@@ -30,7 +30,7 @@ keymap.set("n", "sv", ":vsplit<Return>", opts)
 keymap.set("n", "sh", "<C-w>h")
 keymap.set("n", "sk", "<C-w>k")
 keymap.set("n", "sj", "<C-w>j")
-keymap.set("m", "sl", "<C-w>l")
+keymap.set("n", "sl", "<C-w>l")
 
 -- Resize Window
 keymap.set("n", "<C-w><left>", "<C-w><")
